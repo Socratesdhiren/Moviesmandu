@@ -22,3 +22,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# compiled output
+/build
+/Release
+/dist
+/dll
+.tmp
+production/landing-dist
+production/landing-dist-min
+production/documentation/*.html
+production/landing/*.html
